@@ -1,0 +1,403 @@
+{
+  "generator": "export_lights_for_three.py",
+  "blenderVersion": "5.2.3 LTS",
+  "renderEngine": "BLENDER_EEVEE",
+  "colorManagement": {
+    "viewTransform": "AgX",
+    "look": "None",
+    "exposure": 0.0,
+    "gamma": 1.0,
+    "displayDevice": "sRGB"
+  },
+  "world": {
+    "color": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "strength": 0.6999990940093994,
+    "hdri": "cloudy-night-sky_1K_4a1659cf-7719-4fc8-9296-a3ad9785cdc8.exr",
+    "rotationZ": 0.0,
+    "hdriSourcePath": "C:\\Users\\masam\\blenderkit_data\\hdrs\\cloudy-night-sky_5029e10e-89c1-4ff1-9ed0-c0b049979fb1\\cloudy-night-sky_1K_4a1659cf-7719-4fc8-9296-a3ad9785cdc8.exr"
+  },
+  "eevee": {},
+  "lights": [
+    {
+      "name": "エリア",
+      "type": "AREA",
+      "position": [
+        -0.029559,
+        3.5036,
+        0.72058
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axisZ": [
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "energy": 10.0,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 2.7794458866119385,
+      "height": 1.996002912521364,
+      "intensity": 0.573761,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "エリア.001",
+      "type": "AREA",
+      "position": [
+        0.591565,
+        1.995232,
+        0.830185
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axisZ": [
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "color": [
+        0.133556,
+        1.0,
+        0.216986
+      ],
+      "energy": 0.1,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 0.07980617135763168,
+      "height": 0.05731119215488439,
+      "intensity": 6.959465,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "エリア.002",
+      "type": "AREA",
+      "position": [
+        -0.7509,
+        1.96945,
+        0.695839
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axisZ": [
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "energy": 2.0,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 1.0967013835906982,
+      "height": 0.7741923332214362,
+      "intensity": 0.749796,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "エリア.003",
+      "type": "AREA",
+      "position": [
+        1.267663,
+        0.896797,
+        0.755592
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axisZ": [
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "color": [
+        0.604317,
+        1.0,
+        0.550427
+      ],
+      "energy": 0.299994,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 0.2784591317176819,
+      "height": 0.24577952921390556,
+      "intensity": 1.395262,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "エリア.004",
+      "type": "AREA",
+      "position": [
+        3.051307,
+        3.5036,
+        0.72058
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axisZ": [
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "energy": 10.0,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 2.7794458866119385,
+      "height": 1.996002912521364,
+      "intensity": 0.573761,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "エリア.005",
+      "type": "AREA",
+      "position": [
+        3.672431,
+        1.995232,
+        0.830185
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axisZ": [
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "color": [
+        0.133556,
+        1.0,
+        0.216986
+      ],
+      "energy": 0.1,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 0.07980617135763168,
+      "height": 0.05731119215488439,
+      "intensity": 6.959465,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "エリア.006",
+      "type": "AREA",
+      "position": [
+        2.329966,
+        1.96945,
+        0.695839
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axisZ": [
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "energy": 2.0,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 1.0967013835906982,
+      "height": 0.7741923332214362,
+      "intensity": 0.749796,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "エリア.007",
+      "type": "AREA",
+      "position": [
+        4.348529,
+        0.896797,
+        0.755592
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "axisZ": [
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "color": [
+        0.604317,
+        1.0,
+        0.550427
+      ],
+      "energy": 0.299994,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 0.2784591317176819,
+      "height": 0.24577952921390556,
+      "intensity": 1.395262,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "エリア.008",
+      "type": "AREA",
+      "position": [
+        1.633562,
+        10.10807,
+        1.374232
+      ],
+      "axisX": [
+        1.0,
+        0.0,
+        -0.0
+      ],
+      "axisY": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "axisZ": [
+        0.0,
+        1.0,
+        -0.0
+      ],
+      "color": [
+        0.345833,
+        0.967549,
+        1.0
+      ],
+      "energy": 25.099998,
+      "exposure": 3.883495330810547,
+      "castShadow": true,
+      "radius": 0.0,
+      "shape": "RECTANGLE",
+      "width": 9.273618698120117,
+      "height": 2.639822006225586,
+      "intensity": 4.816688,
+      "spread": 3.1415927410125732
+    },
+    {
+      "name": "サン",
+      "type": "SUN",
+      "position": [
+        29.231604,
+        9.578205,
+        1e-06
+      ],
+      "axisX": [
+        0.20748,
+        -0.978239,
+        -0.0
+      ],
+      "axisY": [
+        -0.0,
+        0.0,
+        -1.0
+      ],
+      "axisZ": [
+        0.978239,
+        0.20748,
+        -0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "energy": 0.71,
+      "exposure": 0.0,
+      "castShadow": true,
+      "radius": 0.0,
+      "intensity": 0.71,
+      "sunAngle": 0.009180432185530663
+    }
+  ]
+}
