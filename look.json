@@ -1,0 +1,68 @@
+{
+  "toneMapping": "AgX (Blender: AgX)",
+  "exposureEV": 0,
+  "envIntensity": 0.6999990940093994,
+  "worldBackground": false,
+  "fogDensity": 0.012,
+  "ambient": 0,
+  "moon": 0,
+  "lightScale": 1,
+  "bloomStrength": 0.85,
+  "bloomRadius": 0.4,
+  "bloomThreshold": 0.65,
+  "logoGlow": 0,
+  "shadowArea": 12,
+  "parallax": true,
+  "lights": {
+    "エリア": {
+      "intensity": 0.407,
+      "color": "#ffffff",
+      "visible": true
+    },
+    "エリア.001": {
+      "intensity": 17.16,
+      "color": "#66ff80",
+      "visible": true
+    },
+    "エリア.002": {
+      "intensity": 0.391,
+      "color": "#ffffff",
+      "visible": true
+    },
+    "エリア.003": {
+      "intensity": 1.395262,
+      "color": "#ccffc4",
+      "visible": true
+    },
+    "エリア.004": {
+      "intensity": 0.573761,
+      "color": "#ffffff",
+      "visible": true
+    },
+    "エリア.005": {
+      "intensity": 6.959465,
+      "color": "#66ff80",
+      "visible": true
+    },
+    "エリア.006": {
+      "intensity": 0.365,
+      "color": "#ffffff",
+      "visible": true
+    },
+    "エリア.007": {
+      "intensity": 1.395262,
+      "color": "#ccffc4",
+      "visible": true
+    },
+    "エリア.008": {
+      "intensity": 9.202,
+      "color": "#4df3ff",
+      "visible": true
+    },
+    "サン": {
+      "intensity": 0.937,
+      "color": "#ff7ae7",
+      "visible": true
+    }
+  }
+}
